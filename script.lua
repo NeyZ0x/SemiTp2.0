@@ -22,4 +22,3 @@ getgenv().TARGET_BRAINROTS = {
     ["La Secret Combinasion"] = true,
     ["Dragon Gingerini"] = true
     ["Tim Cheese"] = true
-}
