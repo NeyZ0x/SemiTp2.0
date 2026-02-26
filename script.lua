@@ -21,6 +21,7 @@ getgenv().TARGET_BRAINROTS = {
     ["Reinito Sleighito"] = true,
     ["La Secret Combinasion"] = true,
     ["Dragon Gingerini"] = true
+    ["Tim Cheese"] = true
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67.lua"))()
 local Players = game:GetService("Players")
